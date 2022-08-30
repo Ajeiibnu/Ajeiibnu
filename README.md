@@ -1,5 +1,5 @@
 # Ajeiibnu
-## _ |_____|____| _
+## |_____|____|
 <details><summary>CLICK ME</summary>
 <p>
 
