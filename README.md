@@ -1,9 +1,9 @@
 # Ajeiibnu
 ## _TTT_
-##<details><summary>CLICK ME</summary>
+<details><summary>CLICK ME</summary>
 <p>
 
-#### We can hide anything, even code!
+#### YOOOOO!
 
 ```
    print "Hello World!"
